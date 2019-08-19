@@ -1,9 +1,14 @@
 # reinstall
 
 ## Content
+- [Anaconda](#anaconda)
 - [SSH](#ssh)
+- [Snap](#snap)
+- [Firefox](#firefox)
+- [VPN](#vpn)
 
-**Anaconda**
+
+## Anaconda
 * should update current modules
 
 * Download installer from [website](https://www.anaconda.com/distribution/)
@@ -31,7 +36,7 @@
 
 ***
 
-**Snap**
+## Snap
 
 `sudo apt update`
 
@@ -41,7 +46,7 @@
 
 ***
 
-**FireFox**
+## FireFox
 
 * Bei Firefox Synchro anmelden
 
@@ -55,7 +60,7 @@
 
 ***
 
-**VPN**
+## VPN
 
 * Download alpha-centauri-a.opvn from ssh://julians.cloud/root
 
