@@ -6,6 +6,7 @@
 - [Snap](#snap)
 - [Firefox](#firefox)
 - [VPN](#vpn)
+- [Deep Learning Machine](https://medium.com/@aragalie/build-your-own-top-spec-remote-access-machine-learning-rig-a-very-detailed-assembly-and-dae0f4011a8f)
 
 
 ## Anaconda
