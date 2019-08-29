@@ -76,5 +76,5 @@
    * check the box "Automatically connect to VPN" and select your VPN
    
 ### Resources
-* [Setting up deep learning machine]8https://medium.com/@IsaacJK/setting-up-a-ubuntu-18-04-1-lts-system-for-deep-learning-and-scientific-computing-fab19f7ca39d)
+* [Setting up deep learning machine](https://medium.com/@IsaacJK/setting-up-a-ubuntu-18-04-1-lts-system-for-deep-learning-and-scientific-computing-fab19f7ca39d)
 * [Improve CPU Performance for DL](https://towardsdatascience.com/optimize-your-cpu-for-deep-learning-424a199d7a87)
